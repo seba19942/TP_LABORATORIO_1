@@ -1,28 +1,3 @@
-# depslib dependency file v1.0
-1523659185 source:c:\users\matias\desktop\tp\tp1\tp_1_calculadora\funciones.c
-
-1523659208 source:c:\users\matias\desktop\tp\tp1\tp_1_calculadora\main.c
-	<stdio.h>
-	<stdlib.h>
-	"funciones.h"
-
-1523253816 c:\users\matias\desktop\tp\tp1\tp_1_calculadora\funciones.h
-
-1554489625 source:c:\users\sebastian\downloads\tp_1_calculadora-master\funciones.c
-
-1554489617 source:c:\users\sebastian\downloads\tp_1_calculadora-master\main.c
-	<stdio.h>
-	<stdlib.h>
-	"funciones.h"
-
-1554489627 c:\users\sebastian\downloads\tp_1_calculadora-master\funciones.h
-
-1554489625 source:c:\users\sebastian\desktop\practica\tp_laboratorio_n1\calculadora\funciones.c
-
-1554489617 source:c:\users\sebastian\desktop\practica\tp_laboratorio_n1\calculadora\main.c
-	<stdio.h>
-	<stdlib.h>
-	"funciones.h"
 
 1554491448 c:\users\sebastian\desktop\practica\tp_laboratorio_n1\calculadora\funciones.h
 
